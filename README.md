@@ -15,7 +15,8 @@
 	You can run the node.js app by typing the following command -
 
 	```bash
-	npm install && npm start
+	npm install 
+ 	npm start
 
 	```
 
@@ -33,7 +34,8 @@ Then type the following command to install the dependencies and start the applic
 
 ```bash
 npm install -g @vue/cli
-npm install && npm run start
+npm install 
+npm run start
 ```
 
 The front-end server will start on port `8080`.

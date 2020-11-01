@@ -1,5 +1,3 @@
 .vscode
-02-backend/db/*.json
 02-backend/node_modules
 03-frontend/node_modules
-02-backend/public/uploads/*.csv
